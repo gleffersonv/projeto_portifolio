@@ -41,7 +41,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚧 Projeto
 
-Live Preview: https://www.gleffersonvicente.com.br/portfolio
+Live Preview: <a href="https://www.gleffersonvicente.com.br/portfolio">Portifólio</a>
 
 ## 🎨 Inspiração:
 
